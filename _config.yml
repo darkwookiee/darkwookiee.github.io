@@ -61,3 +61,4 @@ plugins:
 
 permalink: /blog/:year/:month/:day/:title
 markdown: kramdown
+google_analytics: UA-186882132-1
