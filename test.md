@@ -4,4 +4,4 @@ title: Test
 permalink: /test/
 ---
 
-TCeci est une page de test
+Ceci est une page de test
